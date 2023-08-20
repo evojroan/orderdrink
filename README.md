@@ -1,8 +1,5 @@
-# React + Vite
+# 這是什麼？
+這是飲料下單介面，請點選左邊的飲料清單，加到右邊的欄位裡；右邊的飲料可以刪除或修改數量。
+若有任何補充請寫於備註欄位。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+按「送出」按鈕後，可於畫面最下方總結所有資料。
